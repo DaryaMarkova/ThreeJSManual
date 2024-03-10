@@ -1,0 +1,17 @@
+{
+  "name": "threejsmanual",
+  "version": "1.0.0",
+  "description": "ThreeJS learning manual",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darya Markova",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.5"
+  }
+}
